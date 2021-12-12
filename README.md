@@ -1,0 +1,1 @@
+# All-the-Badges-One-Can-Earn-Parsing-Badges-of-CRAN-Packages-READMEs
